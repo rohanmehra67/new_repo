@@ -1,2 +1,2 @@
 # This is my new repo
-This branch is feature1
+This is new feature
